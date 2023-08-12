@@ -71,13 +71,13 @@ The AcademicSuccessForecast repository represents a promising step toward improv
 # Documentation: Creating a comprehensive README file to guide users through the project, its functionalities, and how to utilize the predictive model.
 
 # Benefits
-# 1. Educational Insights: Educators can gain valuable insights into students' performance patterns, enabling timely interventions.
+1. Educational Insights: Educators can gain valuable insights into students' performance patterns, enabling timely interventions.
 
-# 2.Proactive Measures: Early identification of at-risk students allows institutions to implement strategies for support and improvement.
+2.Proactive Measures: Early identification of at-risk students allows institutions to implement strategies for support and improvement.
 
-# 3. Resource Allocation: Efficient allocation of resources based on identified risk factors and predictions.
+3. Resource Allocation: Efficient allocation of resources based on identified risk factors and predictions.
 
-# 4. Continuous Improvement: Regular model updates and feedback loops ensure continuous enhancement of predictive accuracy.
+4. Continuous Improvement: Regular model updates and feedback loops ensure continuous enhancement of predictive accuracy.
 
 Future Enhancements
 Multi-Model Approach: Implementing and comparing various machine learning algorithms for more accurate predictions.
