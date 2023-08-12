@@ -1,12 +1,11 @@
-# AcademicSuccessForecast
-AcademicSuccessForecast: Predicting Student Academic Success using Machine Learning
-Table of Contents
-Introduction
-Project Overview
-Data Collection and Preprocessing
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Predictive Modeling
+# AcademicSuccessForecast: Predicting Student Academic Success using Machine Learning
+## Table of Contents
+# 1. Introduction
+# 2. Project Overview
+# 3. Data Collection and Preprocessing
+# 4. Exploratory Data Analysis (EDA)
+# 5. Feature Engineering
+# 6. Predictive Modeling
 6.1 Support Vector Machines (SVM)
 6.2 Hyperparameter Tuning
 6.3 Model Evaluation
