@@ -1,4 +1,4 @@
-# AcademicSuccessForecast: Predicting Student Academic Success using Machine Learning
+# AcademicSuccessForecast: Predicting Student Academic Success using Machine Learning(Support Vector Machines)
 ## Table of Contents
 # 1. Introduction
 # 2. Project Overview
